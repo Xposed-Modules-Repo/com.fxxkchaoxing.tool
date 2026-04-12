@@ -22,14 +22,9 @@
 ## 配置说明
 适配了部分模型的openai格式deepseek和minimax，但是现在及将来都不会适配图片题
 
-首次使用需配置 DeepSeek API：
+首次使用需配置  API：
 
-1. 在学习通私有目录创建配置文件：
-   ```
-   /data/data/com.chaoxing.mobile/files/fxxk_config.txt
-   ```
-
-2. 配置内容格式：
+在 设置 - chaoxing 中配置
    ```
    api_url=https://供应商api
    model=deepseek-chat
