@@ -18,6 +18,7 @@
 
 - LSPosed 框架
 - Android 9.0+ (API 29+)
+- 学习通 6.7.5
 
 ## 配置说明
 适配了部分模型的openai格式deepseek和minimax，但是现在及将来都不会适配图片题
