@@ -25,20 +25,7 @@
 
 首次使用需配置  API：
 
-在 设置 - chaoxing 中配置
-   ```
-   api_url=https://供应商api
-   model=deepseek-chat
-   api_key=sk-xxxxxxxxx
-   ```
-
-## 使用方法
-
-1. 安装模块并激活
-2. 打开学习通，进入作业/考试页面
-3. 系统自动捕获题目并调用 AI 答题
-4. AI 返回答案后自动点击选项或填充填空
-
+## 在 设置 - chaoxing  中配置 相关api等
 
 ## 注意事项
 
