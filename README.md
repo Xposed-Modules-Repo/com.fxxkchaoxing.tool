@@ -21,7 +21,7 @@
 - 学习通 6.7.5
 
 ## 配置说明
-适配了部分模型的openai格式deepseek和minimax，但是现在及将来都不会适配图片题
+适配了部分模型的openai格式，仅测试deepseek和minimax，但是现在及将来都不会适配图片题
 
 首次使用需配置  API：
 
